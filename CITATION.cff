@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Testing Theories
+message: If you use this repository, please cite it as below.
+type: software
+authors:
+  - family-names: Kurtis
+    given-names: Bradley Buchner
+    affiliation: Applied Consciousness Lab
+repository-code: https://github.com/AppliedConsciousnessLab/Testing-Theories
+license: CC-BY-4.0
+abstract: Empirical testing environment for theoretical frameworks including Emotional Physics (EP), Global Safety Standard (GSS), and the Societal Entropy Index (SEI).
