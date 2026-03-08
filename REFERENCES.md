@@ -54,6 +54,47 @@ Mattingly, Daniel.
 Studies on authoritarian governance and regime durability.
 
 ---
+## Indigenous Governance and Long-Term Responsibility
+
+### The Great Law of Peace (Kaianere'kó:wa)
+
+The Haudenosaunee Confederacy (often referred to as the Iroquois Confederacy) developed one of the world's oldest known systems of participatory governance through the **Great Law of Peace**, estimated to be more than 700–800 years old.
+
+The confederacy united several nations — Mohawk, Oneida, Onondaga, Cayuga, Seneca, and later Tuscarora — into a political system based on shared principles designed to preserve stability across generations.
+
+Core governance principles include:
+
+• Peace  
+• Equity  
+• Unity  
+• Consensus decision-making  
+• Responsibility to future generations  
+
+One of the most significant concepts embedded in the Great Law of Peace is often described as the **Seven Generations Principle**. Leaders are expected to consider how their decisions will affect people many generations into the future.
+
+This approach represents a governance philosophy that prioritizes long-term stability over short-term advantage.
+
+Within the context of Applied Consciousness Lab research, the Great Law of Peace provides an important historical example of governance systems designed to minimize social entropy and maximize long-term societal resilience.
+
+Its principles align with several themes explored in the research frameworks:
+
+• Global Safety Standard (GSS)  
+• Societal Thermodynamics Framework (STF)  
+• Societal Entropy Index (SEI)
+
+These traditions demonstrate that sustainable governance models emphasizing responsibility, balance, and long-term thinking have existed long before modern political theory.
+
+---
+
+### Historical Influence on Constitutional Thought
+
+Some historians argue that aspects of Haudenosaunee governance influenced early American political thought during the colonial period.
+
+Discussions between colonial leaders and Haudenosaunee diplomats exposed European settlers to models of confederated governance and consensus-based decision structures.
+
+While the extent of influence remains debated among scholars, the comparison highlights how Indigenous political systems
+
+---
 
 # Systems and Complexity Foundations
 
