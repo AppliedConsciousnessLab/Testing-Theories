@@ -1,186 +1,192 @@
 # Testing Theories
+© Applied Consciousness Lab (ACL)
 
-This repository serves as the **empirical testing environment** for research frameworks developed within the Applied Consciousness Lab (ACL).
+This repository serves as the empirical research environment for evaluating theoretical frameworks developed by the **Applied Consciousness Lab**.
 
-Where other repositories define theory or standards, this repository functions as the **experimental laboratory** where those ideas are evaluated against real-world evidence.
+The purpose of this repository is to move theoretical models into measurable, data-driven analysis.
 
-The objective is to determine whether measurable patterns exist that improve understanding of **societal stability, systemic risk, and human regulatory dynamics**.
-
----
-
-# Purpose
-
-The purpose of this repository is to move theoretical frameworks into **empirical testing**.
-
-Research conducted here evaluates hypotheses using:
-
-- cross-national datasets
-- historical case studies
-- statistical modeling
-- interdisciplinary scientific literature
-
-Experiments aim to:
-
-- evaluate correlations between societal indicators
-- test predictions derived from theoretical models
-- analyze cross-national and historical datasets
-- refine frameworks through evidence-based research
-
-The long-term objective is to determine whether measurable patterns exist that improve understanding of **system stability and failure dynamics**.
+It functions as a structured research laboratory where hypotheses are tested using publicly available datasets and interdisciplinary scientific evidence.
 
 ---
 
-# Research Frameworks Under Evaluation
+# Research Frameworks
 
-## Global Safety Standard (GSS)
-
-Research examining the relationship between **safety conditions and societal stability**.
-
-Focus areas include:
-
-- institutional integrity
-- public trust
-- systemic risk reduction
-- governance resilience
-
-Repository  
-https://github.com/AppliedConsciousnessLab/GSS-by-ACL
-
----
+This repository evaluates several core frameworks developed within the Applied Consciousness Lab.
 
 ## Emotional Physics (EP)
 
-A systems framework exploring how **emotional regulation, perception, and behavioral dynamics propagate through human systems**.
+A framework examining how perception, emotional regulation, and environmental safety influence human behavior and social outcomes.
+
+Supporting scientific fields:
+
+• neuroscience  
+• epigenetics  
+• psychology  
+
+---
+
+## Global Safety Standard (GSS)
+
+A systems-level framework evaluating how safety infrastructure influences societal stability and resilience.
 
 Research areas include:
 
-- feedback loops between emotion and decision-making
-- collective regulation and social stability
-- instability patterns during stress events
-
-Repository  
-https://github.com/AppliedConsciousnessLab/EP-by-ACL
+• institutional trust  
+• governance quality  
+• public safety systems  
 
 ---
 
 ## Societal Entropy Index (SEI)
 
-A systems model evaluating **civilizational stability through measurable indicators**.
+A systems model designed to measure societal stability across multiple domains.
 
-Domains include:
+Key variables include:
 
-- biological foundations
-- economic structure
-- institutional legitimacy
-- social cohesion
-- demographic stability
-- information integrity
-
-The SEI framework attempts to determine whether measurable indicators can detect rising systemic instability before societal collapse occurs.
+• biological foundations  
+• economic structure  
+• institutional legitimacy  
+• social cohesion  
+• demographic stability  
+• information integrity  
 
 ---
 
-# Supporting Scientific Domains
+## Societal Thermodynamics Framework (STF)
 
-Several established scientific disciplines are used as evidence layers for testing theoretical frameworks.
+A theoretical model exploring how societal systems accumulate stress and move toward stability or collapse.
 
-These include:
+This framework draws from:
 
-**Epigenetics**
-
-Research on how environmental conditions influence gene expression and long-term biological regulation.
-
-**Neuroscience**
-
-Research exploring brain regulation, safety perception, stress responses, and behavioral feedback loops.
-
-**Complexity Science**
-
-Research studying nonlinear systems, feedback dynamics, and collapse patterns in complex adaptive systems.
+• systems science  
+• complexity theory  
+• historical civilizational analysis  
 
 ---
 
 # Repository Structure
-
-```
-### Testing-Theories Internal Structure
-
-```
 Testing-Theories
 │
 ├── README.md
+├── METHODS.md
+├── DATA_SOURCES.md
+├── EXPERIMENT_REGISTRY.md
+├── FRAMEWORK_EVIDENCE_MAP.md
 │
 ├── sei/
-│   ├── sei-theory.md
-│   ├── sei-metrics.md
-│   └── sei-simulations.md
 │
 ├── epigenetics/
-│   ├── overview.md
-│   ├── literature-review.md
-│   ├── supporting-studies.md
-│   └── implications-for-ep.md
 │
 ├── neuroscience/
-│   ├── overview.md
-│   ├── regulation-research.md
-│   └── brain-safety-mechanisms.md
 │
 ├── systems-science/
-│   ├── overview.md
-│   ├── feedback-loops.md
-│   ├── collapse-patterns.md
-│   └── resilience-models.md
 │
 └── datasets/
-```
-```
 
-The goal of this structure is to separate **theory** from **evidence**, ensuring the research process remains transparent and reproducible.
+---
+
+# Research Methodology
+
+All experiments within this repository follow standardized methodology described in:
+
+METHODS.md
+
+Experiments are documented in:
+
+EXPERIMENT_REGISTRY.md
+
+Datasets used in experiments are listed in:
+
+DATA_SOURCES.md
+
+The relationship between research frameworks and supporting scientific disciplines is documented in:
+
+FRAMEWORK_EVIDENCE_MAP.md
 
 ---
 
 # Research Philosophy
 
-The Applied Consciousness Lab follows a simple principle:
+The Testing-Theories repository operates on three principles:
 
-**Theory must face evidence.**
+**Transparency**  
+All datasets and analytical methods are documented.
 
-Frameworks proposed elsewhere in the ACL ecosystem are evaluated here through data, historical analysis, and interdisciplinary science.
+**Reproducibility**  
+Experiments should be replicable by independent researchers.
 
-This separation ensures that ideas remain **testable, falsifiable, and open to refinement**.
+**Interdisciplinary Evidence**  
+Theoretical frameworks are evaluated using multiple scientific domains.
 
 ---
 
-# Relationship to Other ACL Repositories
+# Supporting Scientific Disciplines
 
-ACL research is organized across multiple repositories to separate theory, experimentation, and implementation.
+This repository integrates evidence from several established fields of research.
 
-Core repositories include:
+• systems science  
+• neuroscience  
+• epigenetics  
+• economics  
+• governance research  
+• demographic analysis  
 
-Global Safety Standard  
-https://github.com/AppliedConsciousnessLab/GSS-by-ACL
+These fields provide measurable evidence used to evaluate the hypotheses explored within ACL frameworks.
 
-Emotional Physics  
-https://github.com/AppliedConsciousnessLab/EP-by-ACL
+---
 
-Societal Thermodynamics  
-https://github.com/AppliedConsciousnessLab/SOCIETAL_THERMODYNAMICS
+# Data Transparency
 
-CARE / PAYBACK Systems  
-https://github.com/AppliedConsciousnessLab/CARE-PAYBACK-by-ACL
+Where possible, experiments rely on publicly available datasets including:
 
-ACL Core Research Library  
-https://github.com/AppliedConsciousnessLab/ACL
+World Bank  
+World Values Survey  
+Transparency International  
+Freedom House  
+United Nations Population Division
+
+Additional datasets are documented in:
+
+DATA_SOURCES.md
+
+---
+
+# Contribution
+
+Researchers are encouraged to contribute:
+
+• additional datasets  
+• experimental designs  
+• replication studies  
+• statistical analysis improvements
+
+All contributions should follow the guidelines described in:
+
+CONTRIBUTING.md
 
 ---
 
 # License
 
-This work is released under an open Creative Commons license to maximize accessibility, transparency, and public benefit.
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA)
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format  
+Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+Attribution — credit Applied Consciousness Lab (ACL)  
+ShareAlike — derivative works must use the same license.
 
 ---
 
-Applied Consciousness Lab (ACL)
+# Repository
 
-Open research exploring safety, coherence, and resilient human systems
+Applied Consciousness Lab  
+https://github.com/AppliedConsciousnessLab
+
+---
+
+© Applied Consciousness Lab (ACL)
