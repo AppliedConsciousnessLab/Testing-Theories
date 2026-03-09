@@ -103,6 +103,9 @@ Research studying nonlinear systems, feedback dynamics, and collapse patterns in
 # Repository Structure
 
 ```
+### Testing-Theories Internal Structure
+
+```
 Testing-Theories
 │
 ├── README.md
@@ -123,12 +126,14 @@ Testing-Theories
 │   ├── regulation-research.md
 │   └── brain-safety-mechanisms.md
 │
-├── complexity-science/
+├── systems-science/
 │   ├── overview.md
-│   ├── systems-dynamics.md
-│   └── collapse-patterns.md
+│   ├── feedback-loops.md
+│   ├── collapse-patterns.md
+│   └── resilience-models.md
 │
 └── datasets/
+```
 ```
 
 The goal of this structure is to separate **theory** from **evidence**, ensuring the research process remains transparent and reproducible.
